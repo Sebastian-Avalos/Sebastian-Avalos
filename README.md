@@ -1,3 +1,3 @@
-Director - APMT: Advanced Predictive Modelting Technology
+APMT: Advanced Predictive Modelting Technology
 
 www.apmodtech.com
